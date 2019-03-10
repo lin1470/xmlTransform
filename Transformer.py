@@ -47,8 +47,8 @@ class Transformer():
         self.loadData()
         dcroot = self.dcData.getroot()
         modsroot = self.modsData.getroot()
-        print("the roots are:",dcroot.tag,modsroot.tag)
-        print(self.configList)
+        # print("the roots are:",dcroot.tag,modsroot.tag)
+        # print(self.configList)
         for wordList in self.configList:
             dcword = wordList[0]
             modsword = wordList[1]
@@ -67,7 +67,3 @@ class Transformer():
 
     def afterProcess(self):
         afterProcess()
-
-if __name__ == '__main__':
-    transformer = Transformer()
-    transformer.transform()

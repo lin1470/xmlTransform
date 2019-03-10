@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3">
+  <title>
+    <title-proper>title-propertest</title-proper>
+    <alternative>alternativetest</alternative>
+  </title>
+  <route>
+    <address-from>address-fromtest</address-from>
+    <analyzed-address-from>analyzed-address-fromtest111</analyzed-address-from>
+  </route>
+  <date>
+    <created>11/13/2018 - 13:46</created>
+    <analyzed-created>2018-12-09 21:53</analyzed-created>
+  </date>
+  <collection-information>
+    <primary-item-identifier>primary-item-identifier</primary-item-identifier>
+  </collection-information>
+  <subject />
+  <rights>
+    <accessrights>1</accessrights>
+  </rights>
+</mods>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<mods >
+  <title>
+    <title-proper>title-proper</title-proper>
+    <alternative>alternative</alternative>
+  </title>
+  <route>
+    <address-from>address-from</address-from>
+    <analyzed-address-from>analyzed-address-from</analyzed-address-from>
+  </route>
+  <date>
+    <created>11/13/2018 - 13:46</created>
+    <analyzed-created>2018-12-09 21:53</analyzed-created>
+  </date>
+  <collection-information>
+    <primary-item-identifier>primary-item-identifier</primary-item-identifier>
+  </collection-information>
+  <subject/>
+  <rights>
+    <accessrights>1</accessrights>
+  </rights>
+</mods>
